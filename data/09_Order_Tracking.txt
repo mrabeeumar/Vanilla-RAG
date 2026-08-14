@@ -1,0 +1,48 @@
+StrideFlex Footwear – Order Tracking Guide
+Effective Date: January 1, 2026
+This document explains how customers can track the status of their StrideFlex orders.
+________________________________________
+1. Order Status Stages
+Orders move through the following stages:
+•	Order Placed – Payment confirmed and order received.
+•	Processing – Order is being picked and packed at the warehouse.
+•	Shipped – Order has left the warehouse and tracking is available.
+•	Out for Delivery – Package is with the local courier for final delivery.
+•	Delivered – Package has been delivered to the shipping address.
+________________________________________
+2. How to Track an Order
+Customers can track an order in the following ways:
+1.	Sign in to your StrideFlex account.
+2.	Open your order history.
+3.	Select the order you want to track.
+4.	View the current status and tracking number.
+5.	Click the tracking link to view carrier details.
+A tracking confirmation email with a tracking number is also sent once the order ships.
+________________________________________
+3. Guest Order Tracking
+Customers who checked out as a guest can track their order using the order number and the email address used at checkout on the "Track Order" page of the website.
+________________________________________
+4. Tracking Updates
+Tracking information is typically updated within 24 hours of a scanned event by the carrier. Some delays in tracking updates may occur, especially over weekends and holidays.
+________________________________________
+5. Delayed Tracking Information
+If tracking has not updated for more than 5 business days, customers should contact customer support for assistance investigating the shipment.
+________________________________________
+6. Multiple Shipments
+Orders containing items from different warehouses may generate multiple tracking numbers. Each shipment can be tracked independently from the order history page.
+________________________________________
+7. International Tracking
+International orders may show limited tracking detail once the package enters customs processing in the destination country. Full tracking typically resumes once the package clears customs.
+________________________________________
+8. Package Marked as Delivered but Not Received
+If a package shows as delivered but cannot be located:
+•	Check with household members and neighbors.
+•	Verify the delivery address on file.
+•	Contact customer support within 7 days of the delivery scan.
+StrideFlex will investigate with the carrier and provide a resolution.
+________________________________________
+9. Contact Customer Support
+For help with tracking an order, please contact our customer support team.
+Email: support@strideflex.com
+Phone: +1 (800) 555-2026
+Business Hours: Monday–Friday, 9:00 AM–6:00 PM Eastern Time

@@ -1,0 +1,47 @@
+StrideFlex Footwear – Payment Methods
+Effective Date: January 1, 2026
+This document outlines the payment methods accepted by StrideFlex and related billing information.
+________________________________________
+1. Accepted Payment Methods
+StrideFlex accepts the following payment methods at checkout:
+•	Visa
+•	Mastercard
+•	American Express
+•	Discover
+•	PayPal
+•	Apple Pay
+•	Google Pay
+•	Shop Pay
+•	Company-issued Gift Cards
+•	Store Credit
+Available payment methods may vary depending on the customer's country and device.
+________________________________________
+2. Payment Security
+All payment information is processed through PCI-DSS compliant payment gateways. StrideFlex does not store full credit card numbers on its own servers.
+________________________________________
+3. Currency
+Orders are billed in the local currency of the customer's selected country: USD for the United States, CAD for Canada, GBP for the United Kingdom, and AUD for Australia.
+________________________________________
+4. When You Are Charged
+Payment is charged in full at the time the order is placed. For pre-order or back-ordered items, payment is charged when the order is placed unless otherwise stated on the product page.
+________________________________________
+5. Combining Payment Methods
+Customers may combine one gift card or store credit balance with a single credit or debit card in the same transaction. Multiple gift cards may also be combined.
+________________________________________
+6. Failed Payments
+If a payment fails, the order will not be processed. Common causes include insufficient funds, incorrect billing information, or bank security holds. Customers should verify their payment details and try again or contact their card issuer.
+________________________________________
+7. Billing Address Requirements
+The billing address entered at checkout must match the address on file with the payment provider to avoid payment verification failures.
+________________________________________
+8. Sales Tax and VAT
+Applicable sales tax, GST, or VAT is calculated at checkout based on the shipping destination and displayed before order confirmation.
+________________________________________
+9. Buy Now, Pay Later
+Select customers in eligible countries may use approved installment payment providers at checkout, subject to the provider's own credit approval process.
+________________________________________
+10. Contact Customer Support
+For questions about billing or payment methods, please contact our customer support team.
+Email: support@strideflex.com
+Phone: +1 (800) 555-2026
+Business Hours: Monday–Friday, 9:00 AM–6:00 PM Eastern Time
