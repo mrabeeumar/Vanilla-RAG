@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vanilla-rag"
+version = "0.1.0"
+description = "A from-scratch Retrieval-Augmented Generation pipeline with no RAG framework dependency."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.2",
+    "transformers>=4.40",
+    "chromadb>=0.5",
+    "pypdf>=4.2",
+    "python-dotenv>=1.0",
+    "click>=8.1",
+    "pyyaml>=6.0",
+    "numpy>=1.26",
+    "groq>=0.9",
+    "google-generativeai>=0.7",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+rag = "rag.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["src"]
